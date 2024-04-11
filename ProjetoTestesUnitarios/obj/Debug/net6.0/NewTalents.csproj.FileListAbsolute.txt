@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\NewTalents.exe
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\NewTalents.deps.json
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\NewTalents.runtimeconfig.json
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\NewTalents.dll
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\NewTalents.pdb
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.dll
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\refint\NewTalents.dll
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.pdb
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\NewTalents.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ref\NewTalents.dll

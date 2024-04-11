@@ -1,0 +1,14 @@
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\ModuloTestes.exe
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\ModuloTestes.deps.json
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\ModuloTestes.runtimeconfig.json
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\ModuloTestes.dll
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\bin\Debug\net6.0\ModuloTestes.pdb
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.dll
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\refint\ModuloTestes.dll
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.pdb
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ModuloTestes.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Projetos\ProjetoTestesUnitarios\ProjetoTestesUnitarios\obj\Debug\net6.0\ref\ModuloTestes.dll

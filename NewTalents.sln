@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTalents", "ProjetoTestesUnitarios\NewTalents.csproj", "{C41453E2-9511-43A9-92F2-F44BEBA26C6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesNewTalents", "TestesNewTalents\TestesNewTalents.csproj", "{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C41453E2-9511-43A9-92F2-F44BEBA26C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C41453E2-9511-43A9-92F2-F44BEBA26C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C41453E2-9511-43A9-92F2-F44BEBA26C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C41453E2-9511-43A9-92F2-F44BEBA26C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A9B1A59-0EEB-46B4-9672-2BA17ACCBB40}
+	EndGlobalSection
+EndGlobal

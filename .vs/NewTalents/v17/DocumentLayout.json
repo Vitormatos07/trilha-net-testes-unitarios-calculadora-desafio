@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\OneDrive\\Projetos\\ProjetoTestesUnitarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}|TestesNewTalents\\TestesNewTalents.csproj|c:\\users\\vitor\\onedrive\\projetos\\projetotestesunitarios\\testesnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDA0D014-2ACF-48DF-B73B-4B9E16CB4521}|TestesNewTalents\\TestesNewTalents.csproj|solutionrelative:testesnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C41453E2-9511-43A9-92F2-F44BEBA26C6E}|ProjetoTestesUnitarios\\NewTalents.csproj|c:\\users\\vitor\\onedrive\\projetos\\projetotestesunitarios\\projetotestesunitarios\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C41453E2-9511-43A9-92F2-F44BEBA26C6E}|ProjetoTestesUnitarios\\NewTalents.csproj|solutionrelative:projetotestesunitarios\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Projetos\\ProjetoTestesUnitarios\\ProjetoTestesUnitarios\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ProjetoTestesUnitarios\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Projetos\\ProjetoTestesUnitarios\\ProjetoTestesUnitarios\\Calculadora.cs",
+              "RelativeToolTip": "ProjetoTestesUnitarios\\Calculadora.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:10:25.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\OneDrive\\Projetos\\ProjetoTestesUnitarios\\TestesNewTalents\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestesNewTalents\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\vitor\\OneDrive\\Projetos\\ProjetoTestesUnitarios\\TestesNewTalents\\UnitTest1.cs",
+              "RelativeToolTip": "TestesNewTalents\\UnitTest1.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:07:29.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
